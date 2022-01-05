@@ -1,0 +1,16 @@
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ConstrutorPrivado
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ConstrutorPrivado.deps.json
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ConstrutorPrivado.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ConstrutorPrivado.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ConstrutorPrivado.dll
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ref/ConstrutorPrivado.dll
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/bin/Debug/net5.0/ConstrutorPrivado.pdb
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.dll
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ref/ConstrutorPrivado.dll
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.pdb
+/Users/lucasrodriguesdasilva/Projetos/ConstrutorPrivado/obj/Debug/net5.0/ConstrutorPrivado.genruntimeconfig.cache
