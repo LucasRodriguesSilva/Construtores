@@ -1,0 +1,16 @@
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/Delegate
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/Delegate.deps.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/Delegate.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/ref/Delegate.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/bin/Debug/net5.0/Delegate.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/ref/Delegate.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/7/Delegate/obj/Debug/net5.0/Delegate.genruntimeconfig.cache
