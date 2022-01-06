@@ -1,0 +1,16 @@
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/Eventos
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/Eventos.deps.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/Eventos.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/Eventos.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/Eventos.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/ref/Eventos.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/bin/Debug/net5.0/Eventos.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/ref/Eventos.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/8/Eventos/obj/Debug/net5.0/Eventos.genruntimeconfig.cache
