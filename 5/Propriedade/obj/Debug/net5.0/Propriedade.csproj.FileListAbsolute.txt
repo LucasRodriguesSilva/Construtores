@@ -1,0 +1,16 @@
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/Propriedade
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/Propriedade.deps.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/Propriedade.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/Propriedade.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/Propriedade.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/ref/Propriedade.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/bin/Debug/net5.0/Propriedade.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/ref/Propriedade.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/Propriedade/obj/Debug/net5.0/Propriedade.genruntimeconfig.cache

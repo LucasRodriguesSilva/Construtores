@@ -1,0 +1,16 @@
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ConstrutorHeranca
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ConstrutorHeranca.deps.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ConstrutorHeranca.runtimeconfig.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ConstrutorHeranca.runtimeconfig.dev.json
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ConstrutorHeranca.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ref/ConstrutorHeranca.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/bin/Debug/net5.0/ConstrutorHeranca.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.csproj.AssemblyReference.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.AssemblyInfoInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.AssemblyInfo.cs
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.csproj.CoreCompileInputs.cache
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ref/ConstrutorHeranca.dll
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.pdb
+/Users/lucasrodriguesdasilva/Downloads/Lucas/DigitalInnovation/BootCamp Avanade 2 edição/avanade developer/Projetos/ConstrutorHeranca/obj/Debug/net5.0/ConstrutorHeranca.genruntimeconfig.cache
